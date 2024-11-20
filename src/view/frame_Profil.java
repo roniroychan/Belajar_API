@@ -25,7 +25,7 @@ public class frame_Profil extends javax.swing.JFrame {
         loadProfile();
     }
     
-    
+    //
    void loadProfile() {
         tFoto.setIcon(null);
         JSONArray data = mahasiswa.getDatamhs();
